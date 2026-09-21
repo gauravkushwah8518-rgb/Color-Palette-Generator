@@ -82,6 +82,4 @@ npm run test:watch  # watch mode
 
 The sign-in flow is a **local demo** — accounts are stored in your browser's `localStorage` only. No data ever leaves your device. Don't reuse a real password here.
 
-## 📄 License
-
-This project is open-source and available for learning and personal use.
+            #  This is colourcraft Genrator #
